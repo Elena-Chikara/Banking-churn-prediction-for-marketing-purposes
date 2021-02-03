@@ -4,8 +4,8 @@ We are group 2- team 2 from Brainster- Data Science Academy.
 For a start, let's try to change this document and repost it to the GutHub project,
 just to see how it works.
 
-
-
+Example:
+Elena: Today it was a good day.
 
 
 Off we go!
