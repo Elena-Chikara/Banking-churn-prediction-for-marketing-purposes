@@ -1,0 +1,9 @@
+diff a/Bank_template.ipynb b/Bank_template.ipynb	(rejected hunks)
+@@ -0,6 +0,7 @@
+     "id": "RarNoE4PSXyr"
+    },
+    "source": [
++    "# Bank data analysis\n",
+     "\n",
+     "The goal of your project is to create a robust classifier and use the data, where you will build a model that will recognize whether specific client will leave/unsubscribe the bank services.\n",
+     "Make feature engineering but also try differnet models in order to get as much accuracy as possible.\n",
