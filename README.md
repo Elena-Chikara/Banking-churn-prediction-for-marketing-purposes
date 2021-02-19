@@ -29,22 +29,22 @@ The project is done in few phases:
 
 ## Data Preprocessing
 <p>
- Enter text for preprocessing
+ Enter text 
 </p>
 
 ## Features Analysis and Visualization
  <p>
- Enter text for preprocessing
+ Enter text 
 </p>
 
 ## Models Implementation
  <p>
- Enter text for preprocessing
+ Enter text 
 </p>
 
 ## Conclusion
  <p>
- Enter text for preprocessing
+ Enter text 
 </p>
 
 
