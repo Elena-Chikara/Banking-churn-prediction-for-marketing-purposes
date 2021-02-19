@@ -34,7 +34,10 @@ The project is done in few phases:
 
 ## Features Analysis and Visualization
  <p>
- Enter text 
+ 
+ <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/age.png" /></p>
+ <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p>
+ 
 </p>
 
 ## Models Implementation
