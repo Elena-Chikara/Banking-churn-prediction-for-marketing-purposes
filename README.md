@@ -50,8 +50,8 @@ The project is done in few phases:
 
 ## References
 <p>
-https://seaborn.pydata.org/tutorial
-https://core.ac.uk/download/pdf/83461632.pdf
+https://seaborn.pydata.org/tutorial<br/>
+https://core.ac.uk/download/pdf/83461632.pdf<br/>
  
  </p>
 
