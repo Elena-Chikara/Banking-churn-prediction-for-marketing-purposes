@@ -26,13 +26,26 @@ The project is done in few phases:
 - [Conclusion](#conclusion)
 
 </small></p>
-<h3>Data Preprocessing</h3>
-<small><p>
+
+#Data Preprocessing
+<p>
  Enter text for preprocessing
 </p>
-<h3>Features Analysis and Visualization</h3>
- 
 
+#Features Analysis and Visualization
+ <p>
+ Enter text for preprocessing
+</p>
+
+#Models Implementation
+ <p>
+ Enter text for preprocessing
+</p>
+
+#Conclusion
+ <p>
+ Enter text for preprocessing
+</p>
 
 
 </body>
