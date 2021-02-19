@@ -48,6 +48,11 @@ The project is done in few phases:
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/income_category.png" /></p>
  <p> Enter text here </p><br/>
  
+   <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png" /></p>
+ <p> Enter text here </p><br/>
+ 
+   <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/credit_limit.png" /></p>
+ <p> Enter text here </p><br/> 
 
 ## Models Implementation
  <p>
