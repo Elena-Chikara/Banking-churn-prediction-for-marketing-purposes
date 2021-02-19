@@ -8,7 +8,9 @@
 
 :star: Star us on GitHub — it helps!
 
+
 <h3>Introduction </h3>
+<p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/target_class.png" /></p>
 
 <small><p>
  
