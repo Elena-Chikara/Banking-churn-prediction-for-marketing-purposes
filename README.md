@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head> 
+  <title>Banking-churn-prediction-for-marketing-purposes</title>
  </head>
 <body>
  
