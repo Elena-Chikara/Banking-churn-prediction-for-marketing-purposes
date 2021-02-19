@@ -45,10 +45,6 @@ The project is done in few phases:
 </p>
  <p>  </p><br/>
  
- <p align="center"><img src="" /></p>
- <p>  </p><br/>
- 
-</p>
 
 ## Models Implementation
  <p>
