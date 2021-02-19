@@ -40,7 +40,10 @@ The project is done in few phases:
  <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p><br/>
 
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_bi%25.png" /></p>
- <p>  </p><br/>
+ <p> Enter text here </p><br/>
+ 
+  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/marital_status_bi%25.png" /></p>
+ <p> Enter text here </p><br/>
  
 
 ## Models Implementation
