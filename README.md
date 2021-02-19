@@ -40,8 +40,8 @@ The project is done in few phases:
  <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p><br/>
  
  <p align="center">
-<a><img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_%25.png"></a>
-<img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_bi%25.png"></a>
+<a><img width="45%" height="60%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_%25.png"></a>
+<img width="45%" height="60%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_bi%25.png"></a>
 </p>
  <p>  </p><br/>
  
