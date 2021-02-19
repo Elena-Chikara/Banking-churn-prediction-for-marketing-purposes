@@ -37,7 +37,10 @@ The project is done in few phases:
  <p>Utilizing Matplotlib, Seaborn and Pandas, we next analyzed the data. We can see that our dataset was imbalanced.</p><br/>
  
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/age.png" /></p>
- <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p>
+ <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p><br/>
+ 
+ <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/dependent%20count.png" /></p>
+ <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p><br/>
  
 </p>
 
