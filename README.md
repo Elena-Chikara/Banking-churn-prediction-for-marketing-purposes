@@ -20,9 +20,19 @@ It is always more difficult to retain rather than to obtain customers, as it pla
 
 The project is done in few phases:
 
-- [Data Cleaning](#data-cleaning)
+- [Data Preprocessing](#data-preprocessing)
 - [Features Analysis and Visualization](#features-analysis-and-visualization)
 - [Models implementation](#models-implementation)
 - [Conclusion](#conclusion)
 
 </small></p>
+<h3>Data Preprocessing</h3>
+<small><p>
+ Enter text for preprocessing
+</p>
+<h3>Features Analysis and Visualization</h3>
+ 
+
+
+
+</body>
