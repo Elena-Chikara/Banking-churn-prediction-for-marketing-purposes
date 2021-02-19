@@ -48,4 +48,11 @@ The project is done in few phases:
 </p>
 
 
+## References
+<p>
+https://seaborn.pydata.org/tutorial
+https://core.ac.uk/download/pdf/83461632.pdf
+ 
+ </p>
+
 </body>
