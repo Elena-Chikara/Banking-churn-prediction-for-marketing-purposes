@@ -10,7 +10,6 @@
 
 
 <h3>Introduction </h3>
-<p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/target_class.png" /></p>
 
 <small><p>
  
@@ -43,7 +42,10 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
 
 ## Features Analysis and Visualization
  <p>
- <p>Utilizing Matplotlib, Seaborn and Pandas, we next analyzed the data. We can see that our dataset was imbalanced.</p><br/>
+ <p>Utilizing Matplotlib, Seaborn and Pandas, we next analyzed the data.</p><br/>
+ 
+ <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/target_class.png" /></p>
+ <p>The dataset of the project is imbalanced, the target variable has more observations in class of Existing Customers than the class of Attried Customers.</p><br/>
  
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/age.png" /></p>
  <p>The graph above shows normal distribution for the age variable where most of the customers are between 40 and 55 years old. </p><br/>
