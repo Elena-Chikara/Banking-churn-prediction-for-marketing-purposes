@@ -61,8 +61,8 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
 </p>
  <p>Clients belonging on the two sides of income category are more likely to leave. Card owners with income less than 40.000$ are the majority of the dataset and, likewise, they could easily be the majority of churn clients.</p><br/>
  
-   <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/credit_limit.png" /></p>
- <p> Enter text here </p><br/> 
+   <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_revolving_bal.PNG" /></p>
+ <p>Most of the customers have Total Revolving Balance zero. This data signifies that most of the clients are returning the spent amount very inconsistently. The conclusion would be that either this clients have a necessity for higher revolving limit or that they have credit cards from other banks which have priority when returnig the spent amount.</p><br/> 
  
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/all_features.png" /></p>
  <p> Enter text here </p><br/> 
