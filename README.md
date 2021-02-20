@@ -47,7 +47,7 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/target_class.png" /></p>
  <p>The dataset of the project is imbalanced, the target variable has more observations in the class of Existing Customer than the class of Attrited Customer.</p><br/>
  
- <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png" /></p>
+ <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png" /><p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png" /></p>
  <p>The graph above shows how great the concetration is with clients owning Blue card. This could be an imporatnt fact when comparing i to other features and making conclusions. </p><br/>
 
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/education_level_bi%25.png" /></p>
