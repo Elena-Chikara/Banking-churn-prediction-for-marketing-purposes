@@ -48,8 +48,8 @@
  
  
  <p align="center">
-<a><img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category.png"></a>
-<img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png"></a>
+<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category.png"></a>
+<img width="40%" height="40%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png"></a>
 </p>
  
  <p align="justify">Most of the customers have blue card category, while all other card categories are less represented. This is of a great importance showing the dominant ownership of the Blue card against all of the other types of cards (Gold, Silver and Platinum). </p>
