@@ -22,7 +22,7 @@ It is always more difficult to retain rather than to obtain customers, as it pla
 
 <p>Without further ado, we present the project “Banking churn prediction for marketing purposes”.<p>
 
-<p>The project is done in few phases:
+<p>The project is done in the following phases:
 
 - [Data Preprocessing](#data-preprocessing)
 - [Features Analysis and Visualization](#features-analysis-and-visualization)
