@@ -86,6 +86,10 @@
     <td>94</td>
   </tr>
 </table>
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 ## Model training
