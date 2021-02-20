@@ -50,7 +50,7 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
  
  <p align="center">
 <a><img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Card%20category.PNG"></a>
-<img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png"></a>
+<img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Card_category_bi.PNG"></a>
 </p>
  
  <p>Most of the customers have blue card category, while all other card categories are less represented. This is of a great importance showing the dominant ownership of the Blue card against all of the other types of cards (Gold, Silver and Platinum). </p>
