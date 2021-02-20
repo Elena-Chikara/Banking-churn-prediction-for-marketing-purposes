@@ -83,7 +83,7 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
 <p>
 https://seaborn.pydata.org/tutorial<br/>
 https://core.ac.uk/download/pdf/83461632.pdf<br/>
- 
+https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/ 
  </p>
 
 </body>
