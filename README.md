@@ -29,8 +29,7 @@
 </small></p>
 
 ## Data Preprocessing
-<p>
-At the very beginning of the preprocessing phase, two important decisions were made: no data will be deleted (rows and columns) and outliers will remain outliers, as it is important to know which the rare cases are.
+<p align="justify">At the very beginning of the preprocessing phase, two important decisions were made: no data will be deleted (rows and columns) and outliers will remain outliers, as it is important to know which the rare cases are.
  
 The dataset includes 10.126 examples with 19 features and it does not have any missing values. However, the feature 'Months_on_book' contained some untypical values that needed to be handled, more precisely, replaced using the KNNImputer method.
 The dataset includes values that are “Unknown” and they will not be replaced with other values, as it is believed that they can represent a separate group of clients that can bring an important meaning to the analysis. The “Unknown” data cover 33.01% of the clients in the dataset and are contained in the features 'Education_Level', 'Marital_Status' and 'Income_Category'.
@@ -51,21 +50,21 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
 <img width="45%" height="45%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Card_category_bi.PNG"></a>
 </p>
  
- <p>Most of the customers have blue card category, while all other card categories are less represented. This is of a great importance showing the dominant ownership of the Blue card against all of the other types of cards (Gold, Silver and Platinum). </p>
- <p>Clients with platinum cards are most likely to leave. Compared to the representation of each of the cards in the bank, the Platinum card is the least used card in the bank, and the most used card is Blue. Te reason for this trend can probably be connected with the height of clients' incomes, as it can be seen from one of the previous graphs that also clients with more that 120.000 usd incomes are more likely to leave the bank. In conclusion, the Platinum card is a type of card aimed for the highest social classes, which are probably trying to find ways to spend their high incomes. This makes this group wothed observing and stopping from trying another bank's card.<p><br/>
+ <p align="justify">Most of the customers have blue card category, while all other card categories are less represented. This is of a great importance showing the dominant ownership of the Blue card against all of the other types of cards (Gold, Silver and Platinum). </p>
+ <p align="justify">Clients with platinum cards are most likely to leave. Compared to the representation of each of the cards in the bank, the Platinum card is the least used card in the bank, and the most used card is Blue. Te reason for this trend can probably be connected with the height of clients' incomes, as it can be seen from one of the previous graphs that also clients with more that 120.000 usd incomes are more likely to leave the bank. In conclusion, the Platinum card is a type of card aimed for the highest social classes, which are probably trying to find ways to spend their high incomes. This makes this group wothed observing and stopping from trying another bank's card.<p><br/>
  
  
  <p align="center">
 <a><img width="65%" height="65%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/income_category.png"></a>
 <img width="25%" height="25%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Income_category_bi.PNG"></a>
 </p>
- <p>Clients belonging on the two sides of income category are more likely to leave. Card owners with income less than 40.000$ are the majority of the dataset and, likewise, they could easily be the majority of churn clients.</p><br/>
+ <p align="justify">Clients belonging on the two sides of income category are more likely to leave. Card owners with income less than 40.000$ are the majority of the dataset and, likewise, they could easily be the majority of churn clients.</p><br/>
  
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_revolving_bal.PNG" /></p>
  <p>Most of the customers have Total Revolving Balance zero. This data signifies that most of the clients are returning the spent amount very inconsistently. The conclusion would be that either this clients have a necessity for higher revolving limit or that they have credit cards from other banks which have priority when returnig the spent amount.</p><br/> 
  
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Avg_utilization_ratio.PNG" /></p>
- <p>This is a feature of a very big importance, because sometimes, the card owners who are not using their credit card bring more expenses to the bank, rather than income. This is the only graph were negative numbers are noted. Most of the clients have very low average utilisation ratio and as the ratio grows, the graph shows big slope downwards turning itself into skeweness to the right. This feaure perfectly explains the feature 'Total_Revolving_Bal', which mens that either the clients are not returning the spent amounts or they are not spending their cards at all. Average utilisation ratio finaly shows that the majority of the clients have a huge lack of card expenditure, which is a serious drawback. The bank needs to work intensively on stimulating the clients to spend and revovle their card limits. Otherwise, it can become unimportant to them wheter they are clients of the bank or not, and finaly, they could attrite from the bank. This explains why almost all of the features have skeweness to the right.</p><br/> 
+ <p align="justify">This is a feature of a very big importance, because sometimes, the card owners who are not using their credit card bring more expenses to the bank, rather than income. This is the only graph were negative numbers are noted. Most of the clients have very low average utilisation ratio and as the ratio grows, the graph shows big slope downwards turning itself into skeweness to the right. This feaure perfectly explains the feature 'Total_Revolving_Bal', which mens that either the clients are not returning the spent amounts or they are not spending their cards at all. Average utilisation ratio finaly shows that the majority of the clients have a huge lack of card expenditure, which is a serious drawback. The bank needs to work intensively on stimulating the clients to spend and revovle their card limits. Otherwise, it can become unimportant to them wheter they are clients of the bank or not, and finaly, they could attrite from the bank. This explains why almost all of the features have skeweness to the right.</p><br/> 
 
 ## Model training
  <p>
