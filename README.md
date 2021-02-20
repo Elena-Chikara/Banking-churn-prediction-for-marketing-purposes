@@ -25,7 +25,7 @@ It is always more difficult to retain rather than to obtain customers, as it pla
 
 - [Data Preprocessing](#data-preprocessing)
 - [Features Analysis and Visualization](#features-analysis-and-visualization)
-- [Models implementation](#models-implementation)
+- [Model training](#model-training)
 - [Conclusion](#conclusion)
 
 </small></p>
@@ -67,7 +67,7 @@ The techniques used in the preprocessing phase include StandardScaler for the nu
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/all_features.png" /></p>
  <p> Enter text here </p><br/> 
 
-## Models Implementation
+## Model training
  <p>
  Enter text 
 </p>
