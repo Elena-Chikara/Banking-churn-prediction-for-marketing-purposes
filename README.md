@@ -68,30 +68,48 @@
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Avg_utilization_ratio.PNG" /></p>
  <p align="justify">This is a feature of a very big importance, because sometimes, the card owners who are not using their credit card bring more expenses to the bank, rather than income. This is the only graph were negative numbers are noted. Most of the clients have very low average utilisation ratio and as the ratio grows, the graph shows big slope downwards turning itself into skeweness to the right. This feaure perfectly explains the feature 'Total_Revolving_Bal', which mens that either the clients are not returning the spent amounts or they are not spending their cards at all. Average utilisation ratio finaly shows that the majority of the clients have a huge lack of card expenditure, which is a serious drawback. The bank needs to work intensively on stimulating the clients to spend and revovle their card limits. Otherwise, it can become unimportant to them wheter they are clients of the bank or not, and finaly, they could attrite from the bank. This explains why almost all of the features have skeweness to the right.</p><br/> 
  
- 
- <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
 
 
 ## Model training
  <p>
  Enter text 
 </p>
+
+ 
+ <table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th>
+  </tr>
+  <tr>
+    <td>XGBoost</td>
+    <td>98.42</td>
+  </tr>
+  <tr>
+    <td>Random Forest</td>
+    <td>97.83</td>
+  </tr>
+  <tr>
+    <td>Gradient Boosting Tree</td>
+    <td>97.78</td>
+  </tr>
+ <tr>
+    <td>Decision Tree</td>
+    <td>96.00</td>
+  </tr>
+ <tr>
+    <td>CVM</td>
+    <td>91.02</td>
+  </tr>
+  <tr>
+    <td>Naive Bayes</td>
+    <td>90.47</td>
+  </tr>
+ <tr>
+    <td>KNN</td>
+    <td>87.22</td>
+  </tr>
+</table>
 
 ## Conclusion
  <p>
