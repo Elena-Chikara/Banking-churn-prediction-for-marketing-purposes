@@ -29,10 +29,14 @@
 </small></p>
 
 ## Data Preprocessing
-<p align="justify">At the very beginning of the preprocessing phase, two important decisions were made: no data will be deleted (rows and columns) and outliers will remain outliers, as it is important to know which the rare cases are.<br/>
-The dataset includes 10.126 examples with 19 features and it does not have any missing values. However, the feature 'Months_on_book' contained some untypical values that needed to be handled, more precisely, replaced using the KNNImputer method.<br/>
-The dataset includes values that are “Unknown” and they will not be replaced with other values, as it is believed that they can represent a separate group of clients that can bring an important meaning to the analysis. The “Unknown” data cover 33.01% of the clients in the dataset and are contained in the features 'Education_Level', 'Marital_Status' and 'Income_Category'.<br/>
-The techniques used in the preprocessing phase include StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data, and Feature generation to create new features: 'gender_card', 'education_card', 'maritalStatus_card' and 'income_card'.  
+<p>
+<p align="justify">At the very beginning of the preprocessing phase, two important decisions were made: no data will be deleted (rows and columns) and outliers will remain outliers, as it is important to know which the rare cases are.</p>
+ 
+<p align="justify">The dataset includes 10.126 examples with 19 features and it does not have any missing values. However, the feature 'Months_on_book' contained some untypical values that needed to be handled, more precisely, replaced using the KNNImputer method.</p>
+
+<p align="justify">The dataset includes values that are “Unknown” and they will not be replaced with other values, as it is believed that they can represent a separate group of clients that can bring an important meaning to the analysis. The “Unknown” data cover 33.01% of the clients in the dataset and are contained in the features 'Education_Level', 'Marital_Status' and 'Income_Category'.</p>
+
+<p align="justify">The techniques used in the preprocessing phase include StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data, and Feature generation to create new features: 'gender_card', 'education_card', 'maritalStatus_card' and 'income_card'.</p>  
 </p>
 
 ## Features Analysis and Visualization
