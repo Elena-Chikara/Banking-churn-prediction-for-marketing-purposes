@@ -77,15 +77,15 @@
 During the process of model training 7 different algorithms were used:
 </p>
 
-<p>
-<p>•	Naïve Bayes
-<p>•	Support Vector Machines</p>
-•	Decision Tree
-•	Random Forest
-•	K-Nearest Neighbor
-•	Gradient Boosting Tree
-•	XGBoost
-</p>
+<ul>
+  <li>Naïve Bayes</li>
+  <li>Support Vector Machine</li>
+  <li>Decision Tree</li>
+  <li>Random Forest</li>
+  <li>K-Nearest Neighbor</li>
+  <li>Gradient Boosting Tree</li>
+  <li>XGBoost</li>
+</ul>
 
 <p align="justify">
 All of the models were used with different techniques in the preprocessing phase and in the training phase.</p>
