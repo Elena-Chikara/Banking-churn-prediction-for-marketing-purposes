@@ -92,10 +92,9 @@ All of the models were used with different techniques in the preprocessing phase
 
 <p align="justify">In the training phase, the techniques that were used included Random search and Grid search of the best features. Although Random search and Grid search were tried, these techniques are excluded from the final model as they are resulting in slightly lower accuracy in precision and recall.</p>
 
-<p align="justify">The final model with the best prediction results in accuracy on test dataset, precision and recall was XGBoost with the following result:</p>
+<p align="justify">The following table describes all previoslu mentined models with their accuracy achieved on the test dataset, sorted by descending:</p>
 </p>
 
- 
  <table style="width:100%">
   <tr>
     <th>Model</th>
@@ -130,6 +129,9 @@ All of the models were used with different techniques in the preprocessing phase
     <td>87.22</td>
   </tr>
 </table>
+
+<p align="justify">The final model with the best prediction results in accuracy on test dataset, precision and recall was XGBoost with the following result:</p>
+</p>
 
 ## Conclusion
  <p>
