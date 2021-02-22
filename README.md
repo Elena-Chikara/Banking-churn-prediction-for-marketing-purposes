@@ -92,7 +92,7 @@ All of the models were used with different techniques in the preprocessing phase
 
 <p align="justify">In the training phase, the techniques that were used included Random search and Grid search of the best features. Although Random search and Grid search were tried, these techniques are excluded from the final model as they are resulting in slightly lower accuracy in precision and recall.</p>
 
-<p align="justify">The following table describes all previoslu mentined models with their accuracy achieved on the test dataset, sorted by descending:</p>
+<p align="justify">The following table describes all previouslu mentioned models with their accuracy achieved on the test dataset, sorted by descending:</p>
 </p>
 
  <table style="width:100%">
