@@ -78,7 +78,7 @@ During the process of model training 7 different algorithms were used:
 </p>
 
 <p>
-<p>•	Naïve Bayes<p>
+<p>•	Naïve Bayes
 <p>•	Support Vector Machines</p>
 •	Decision Tree
 •	Random Forest
