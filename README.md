@@ -73,8 +73,26 @@
 
 
 ## Model training
- <p>
- Enter text 
+<p align="justify">
+During the process of model training 7 different algorithms were used:
+</p>
+
+<p>
+•	Naïve Bayes
+•	Support Vector Machines
+•	Decision Tree
+•	Random Forest
+•	K-Nearest Neighbor
+•	Gradient Boosting Tree
+•	XGBoost
+</p>
+
+<p align="justify">
+All of the models were used with different techniques in the preprocessing phase and in the training phase.
+
+In the training phase, the techniques that were used included Random search and Grid search of the best features. Although Random search and Grid search were tried, these techniques are excluded from the final model as they are resulting in slightly lower accuracy in precision and recall.
+
+The final model with the best prediction results in accuracy on test dataset, precision and recall was XGBoost with the following result:
 </p>
 
  
