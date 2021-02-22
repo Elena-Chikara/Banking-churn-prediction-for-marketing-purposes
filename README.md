@@ -38,7 +38,7 @@
 
 <p align="justify">In the preprocessing phase different encoders were implemented in order to find out which one contributes to the higher accuracy achievement. For that reason, the used encoders were: One-hot-encoding, Category encoding, Count encoding and CatBoost encoding. Also, different types of Feature engineering methods were used, including: SMOTE, Log_transform and Feature generation. CatBoost encoding contributed for the best accuracy on test data and precision and recall and, as far as Feature engineering is concerned, Feature generation gave the best results.</p>
 
-<p align="justify">In the end, the final combination of preprocessing techniques includes: StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data and Feature generation to create new features: ‘gender_card’, ‘education_card’, ‘maritalStatus_card’ and ‘income_card’.</p>  
+<p align="justify">In the end, the final combination of preprocessing techniques includes: StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data and Feature generation to create new features: 'gender_card', 'education_card', 'maritalStatus_card' and 'income_card'.</p>  
 </p>
 
 ## Features Analysis and Visualization
