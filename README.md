@@ -11,7 +11,7 @@
 
 <h3>Introduction </h3>
 
-<small><p align="justify">It is always more difficult to retain rather than to obtain customers, as it places greater responsibility towards the business. Customer retention has become a crucial part of businesses as acquiring new customers is often more costly than keeping the current ones, which has led to the need to dedicate great amount of attention to churn prediction. Businesses have come to a point where they must take into significant consideration clients’ personal characteristics and dynamic behavioral patterns of their financial transactions. Therefore, this project tends to use the clients’ demographic-based features and choice behavioral traits using individual transaction records regarding their credit cards. More generally, the proposed features can also be applied to churn prediction in other domains where demographic and behavioral data are available.</p>
+<small><p align="justify">It is always more difficult to retain rather than to obtain customers, as it places greater responsibility towards the business. Customer retention has become a crucial part of businesses as acquiring new customers is often more costly than keeping the current ones, which has led to the need to dedicate great amount of attention to churn prediction. Businesses have come to a point where they must take into significant consideration the clients’ personal characteristics and dynamic behavioral patterns of their financial transactions. Therefore, this project tends to use the clients’ demographic-based features and choice behavioral traits using individual transaction records regarding their credit cards. More generally, the proposed features can also be applied to churn prediction in other domains where demographic and behavioral data are available.</p>
 
 <p align="justify">The time of Big Data is now! The availability of large-scale behavioral data has given the opportunity to businesses to conduct high-quality analysis of the clients’ behavior and make conclusions and predictions. It is crucial to understand that successful strategies lie on small and seemingly unimportant information. In addition, minimal information on when and where can have gigantic contribution to successful prediction and, consequently, to business success.<p>
 
@@ -36,7 +36,9 @@
 
 <p align="justify">The dataset includes values that are “Unknown” and they will not be replaced with other values, as it is believed that they can represent a separate group of clients that can bring an important meaning to the analysis. The “Unknown” data cover 33.01% of the clients in the dataset and are contained in the features 'Education_Level', 'Marital_Status' and 'Income_Category'.</p>
 
-<p align="justify">The techniques used in the preprocessing phase include StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data, and Feature generation to create new features: 'gender_card', 'education_card', 'maritalStatus_card' and 'income_card'.</p>  
+<p align="justify">In the preprocessing phase different encoders were implemented in order to find out which one contributes to the higher accuracy achievement. For that reason, the used encoders were: One-hot-encoding, Category encoding, Count encoding and CatBoost encoding. Also, different types of Feature engineering methods were used, including: SMOTE, Log_transform and Feature generation. CatBoost encoding contributed for the best accuracy on test data and precision and recall and, as far as Feature engineering is concerned, Feature generation gave the best results.</p>
+
+<p align="justify">In the end, the final combination of preprocessing techniques includes: StandardScaler for the numerical data, LabelEncoder and CatBoost encoding for the categorical data and Feature generation to create new features: ‘gender_card’, ‘education_card’, ‘maritalStatus_card’ and ‘income_card’.</p>  
 </p>
 
 ## Features Analysis and Visualization
