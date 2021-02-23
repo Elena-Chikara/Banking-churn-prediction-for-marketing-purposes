@@ -99,34 +99,42 @@ All of the models were used with different techniques in the preprocessing phase
   <tr>
     <th>Model</th>
     <th>Accuracy</th>
+    <th>Model time</th>
   </tr>
   <tr>
     <td>XGBoost</td>
     <td>98.42</td>
+    <td>00:00:00.510968</td>
   </tr>
   <tr>
     <td>Random Forest</td>
     <td>97.83</td>
+    <td>00:00:00.963000</td>
   </tr>
   <tr>
     <td>Gradient Boosting Tree</td>
     <td>97.78</td>
+    <td>00:00:07.220484</td>
   </tr>
  <tr>
     <td>Decision Tree</td>
     <td>96.00</td>
+   <td>00:00:00.096043</td>
   </tr>
  <tr>
-    <td>CVM</td>
+    <td>SVM</td>
     <td>91.02</td>
+    <td>00:00:05.899189</td>
   </tr>
   <tr>
     <td>Naive Bayes</td>
     <td>90.47</td>
+    <td>00:00:00.010004</td>
   </tr>
  <tr>
     <td>KNN</td>
     <td>87.22</td>
+    <td>00:00:00.059553</td>
   </tr>
 </table>
 
