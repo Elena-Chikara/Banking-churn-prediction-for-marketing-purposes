@@ -162,7 +162,7 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
 
 ## Conclusion
  <p>
- Enter text 
+ This is the place where conclusion should be written.
 </p>
 
 
