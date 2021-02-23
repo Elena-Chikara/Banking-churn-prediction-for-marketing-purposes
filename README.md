@@ -142,8 +142,8 @@ All of the models were used with different techniques in the preprocessing phase
 </p>
 
 <p align="center">
-<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20accuracy.PNG"></a>
-<img width="40%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20precision%20and%20recall.PNG"></a>
+<a><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20accuracy.PNG"></a>
+<img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20precision%20and%20recall.PNG"></a>
 </p>
 
 ## Conclusion
