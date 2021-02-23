@@ -146,6 +146,13 @@ All of the models were used with different techniques in the preprocessing phase
 <img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20precision%20and%20recall.PNG"></a>
 </p>
 
+<p>
+In addition, it is also necessary to construct the ROC curve for as a visual representation of the comparison of all of the trained models.
+</p>
+
+<p align="justify">The final model with the best prediction results in accuracy on test dataset, precision and recall was XGBoost with the following result:</p>
+</p>
+
 ## Conclusion
  <p>
  Enter text 
