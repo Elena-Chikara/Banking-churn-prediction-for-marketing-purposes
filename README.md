@@ -157,12 +157,13 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
  
 <p align="justify">AUC (Area under the ROC Curve) measures the entire two-dimensional area underneath the entire ROC curve. ROC curve is actually quantified by AUC. The purpose is to see how much area has been covered by the ROC curve. If a perfect classifier is obtained, then the AUC score is 1.0. In the real world, an AUC score of 1.0 is not expected, but if the AUC score for the classifier is in the range of 0.6 to 0.9, then it is considered to be a good classifier.</p>
 
-<p align="justify">AUCAs far as this project is concerned, the ROC graph shows that XGBoost has a small adventage in comparison with Random Forest and Gradient Boosting Tree. It achieves almost the perfect AUC score.</p>
+<p align="justify">As far as this project is concerned, the ROC graph shows that XGBoost has a small adventage in comparison with Random Forest and Gradient Boosting Tree. It achieves almost the perfect AUC score.</p>
 
 
 ## Conclusion
  <p>
  This is the place where conclusion should be written.
+ The conclusion shoul contain details about data preprocesing, training and result comparison.
 </p>
 
 
