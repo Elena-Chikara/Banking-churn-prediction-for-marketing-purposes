@@ -162,8 +162,15 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
 
 ## Conclusion
  <p>
- This is the place where conclusion should be written.
- The conclusion shoul contain details about data preprocesing, training and result comparison.
+<ul>
+  <li>Having in mind the very unbalanced observed dataset that is used in the project, the produced result is exceptional.</li>
+  <li>In the preprocessing phase several techniques were used in order to achieve the combination of KNNImputer, Standard Scaler, Label Encoding and CatBoostEncoding that provided for the best results.</li>
+  <li>In the model testing phase seven models were used and compared in order to find the model that would give the highest percentage on the test dataset, precision and recall. XGBoost model is the model that makes the prediction most successfully.</li>
+  <li>Churn prediction does not depend much on thr frature 'Gender', but it significantly depends on the feature 'Income_Category'. The higher the income, the greater the probability for the client to leave.</li>
+  <li>According to the feature analysis using Feature Selection SelectKBest, the  five most important features are: 'Contacts_Count_12_mon', 'Total_Revolving_Bal', 'Total_Trans_Ct', 'Total_Ct_Chng_Q4_Q1', 'Avg_Utilization_Ratio'</li>
+  <li></li>
+  <li></li>
+</ul> 
 </p>
 
 
