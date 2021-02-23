@@ -153,8 +153,7 @@ In addition, it is also necessary to construct the ROC curve for as a visual rep
 <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/ROC%20curves%20of%20all%20models.PNG" /></p>
 
 <p align="justify">
-A ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds on the basis of two parameters: True Positive Rate and False Positive Rate.</p>
-AUC (Area under the ROC Curve) measures the entire two-dimensional area underneath the entire ROC curve. ROC curve is actually quantified by AUC. The purpose is to see how much area has been covered by the ROC curve. If a perfect classifier is obtained, then the AUC score is 1.0. In the real world, an AUC score of 1.0 is not expected, but if the AUC score for the classifier is in the range of 0.6 to 0.9, then it is considered to be a good classifier.
+A ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds on the basis of two parameters: True Positive Rate and False Positive Rate.</p>AUC (Area under the ROC Curve) measures the entire two-dimensional area underneath the entire ROC curve. ROC curve is actually quantified by AUC. The purpose is to see how much area has been covered by the ROC curve. If a perfect classifier is obtained, then the AUC score is 1.0. In the real world, an AUC score of 1.0 is not expected, but if the AUC score for the classifier is in the range of 0.6 to 0.9, then it is considered to be a good classifier.
 As far as this project is concerned, the ROC graph shows that XGBoost has a small adventage in comparison with Random Forest and Gradient Boosting Tree. It achieves almost the perfect AUC score.
 </p>
 
