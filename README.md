@@ -8,7 +8,7 @@
 
 :star: Star us on GitHub — it helps!
 
-<p align="center"><img src="" /></p>
+<p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/main/Banking-churn-prediction-for-mar.gif" /></p>
 <h3>Introduction </h3>
 
 <small><p align="justify">It is always more difficult to retain rather than to obtain customers, as it places greater responsibility towards the business. Customer retention has become a crucial part of businesses as acquiring new customers is often more costly than keeping the current ones, which has led to the need to dedicate great amount of attention to churn prediction. Businesses have come to a point where they must take into significant consideration the clients’ personal characteristics and dynamic behavioral patterns of their financial transactions. Therefore, this project tends to use the clients’ demographic-based features and choice behavioral traits using individual transaction records regarding their credit cards. More generally, the proposed features can also be applied to churn prediction in other domains where demographic and behavioral data are available.</p>
