@@ -204,8 +204,6 @@ A ROC curve (receiver operating characteristic curve) is a graph showing the per
   <li align="justify">In the preprocessing phase several techniques were used in order to achieve the combination of KNNImputer, Standard Scaler, Label Encoding and CatBoostEncoding that provided for the best results.</li>
   <li align="justify">In the model testing phase seven models were used and compared in order to find the model that would give the highest percentage on the test dataset, precision and recall. XGBoost model is the model that makes the prediction most successfully.</li>
   <li align="justify">According to the feature analysis using Feature Selection SelectKBest, the five most important features are: 'Contacts_Count_12_mon', 'Total_Revolving_Bal', 'Total_Trans_Ct', 'Total_Ct_Chng_Q4_Q1', 'Avg_Utilization_Ratio'. It seems like the numerical features have greater impact on the churn prediction rather than categorical data.</li>
-  <li></li>
-  <li></li>
 </ul> 
 </p>
 
