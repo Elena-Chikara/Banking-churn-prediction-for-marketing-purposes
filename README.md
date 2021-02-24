@@ -76,7 +76,7 @@
 
 
 <p align="center">
-<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Ct.PNG"></a>
+<a><img width="40%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Ct.PNG"></a>
 <img width="40%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Amt.PNG"></a>
 <img width="40%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Ct_Chng_Q4_Q1.PNG"></a>
 </p>
