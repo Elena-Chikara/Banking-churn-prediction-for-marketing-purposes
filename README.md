@@ -68,7 +68,12 @@
  <p align="justify">Most of the customers have Total Revolving Balance zero. This data signifies that most of the clients are returning the spent amount very inconsistently. The conclusion would be that either this clients have a necessity for higher revolving limit or that they have credit cards from other banks which have priority when returnig the spent amount.</p><br/> 
  
    <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Avg_utilization_ratio.PNG" /></p>
- <p align="justify">This feature, according to the box-plot, shows that the more contacts the client brings to the bank within 12 months, the greater the probability to leave.</p><br/> 
+ <p align="justify">This feature, according to the box-plot, shows that the more contacts the client brings to the bank within 12 months, the greater the probability to leave.</p><br/>
+ 
+ <p align="center">
+<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category.png"></a>
+<img width="40%" height="40%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png"></a>
+</p>
 
 <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Contact_Count_12_mon.PNG" /></p>
  <p align="justify">This is a feature of a very big importance, because sometimes, the card owners who are not using their credit card bring more expenses to the bank, rather than income. Most of the clients have very low average utilisation ratio and as the ratio grows, the graph shows big slope downwards turning itself into skeweness to the right. This feaure perfectly explains the feature 'Total_Revolving_Bal', which means that either the clients are not returning the spent amounts or they are not spending their cards at all. 'Avg_utilization_ratio' finally shows that the majority of the clients have a huge lack of card expenditure, which is a serious drawback. The bank needs to work intensively on stimulating the clients to spend and revolve their card limits. Otherwise, it can become unimportant to them wheter they are clients of the bank or not, and finaly, they could attrite from the bank. The correlation matrix also shows that these two features have strong positive correlation of 0.6.</p><br/>
