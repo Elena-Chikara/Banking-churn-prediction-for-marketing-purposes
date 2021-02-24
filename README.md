@@ -73,12 +73,10 @@
 <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Contact_Count_12_mon.PNG" /></p>
  <p align="justify">This is a feature of a very big importance, because sometimes, the card owners who are not using their credit card bring more expenses to the bank, rather than income. Most of the clients have very low average utilisation ratio and as the ratio grows, the graph shows big slope downwards turning itself into skeweness to the right. This feaure perfectly explains the feature 'Total_Revolving_Bal', which means that either the clients are not returning the spent amounts or they are not spending their cards at all. 'Avg_utilization_ratio' finally shows that the majority of the clients have a huge lack of card expenditure, which is a serious drawback. The bank needs to work intensively on stimulating the clients to spend and revolve their card limits. Otherwise, it can become unimportant to them wheter they are clients of the bank or not, and finaly, they could attrite from the bank. The correlation matrix also shows that these two features have strong positive correlation of 0.6.</p><br/>
 
-
-
 <p align="center">
-<a><img width="45%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Ct.PNG"></a>
-<img width="45%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Amt.PNG"></a>
-<img width="45%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Ct_Chng_Q4_Q1.PNG"></a>
+<a><img width="50%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Ct.PNG"></a>
+<img width="50%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Trans_Amt.PNG"></a>
+<img width="50%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Ct_Chng_Q4_Q1.PNG"></a>
 </p>
  <p align="justify">The features 'Total_Trans_Ct' and 'Total_Trans_Amt' are highly positively correlated. Also, there can be a sigificant correlation with the feature Total_Ct_Chng_Q4_Q1. The greater these metrics are, the greater the probability for the clients to stay, and vice versa.</p><br/>
 
