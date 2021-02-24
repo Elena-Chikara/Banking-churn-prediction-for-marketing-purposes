@@ -72,7 +72,7 @@
  
  <p align="center">
 <a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Revolving_Bal_bi.PNG"></a>
-<img width="40%" height="40%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Avg_Utilization_Ration_bi.PNG"></a>
+<img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Avg_Utilization_Ration_bi.PNG"></a>
 </p>
 
 <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Contact_Count_12_mon.PNG" /></p>
