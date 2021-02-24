@@ -55,7 +55,7 @@
 </p>
  
  <p align="justify">Most of the customers have blue card category, while all other card categories are less represented. This is of a great importance showing the dominant ownership of the Blue card against all of the other types of cards (Gold, Silver and Platinum). </p>
- <p align="justify">Clients with platinum cards are most likely to leave. Compared to the representation of each of the cards in the bank, the Platinum card is the least used card in the bank, and the most used card is Blue. Te reason for this trend can probably be connected with the height of clients' incomes, as it can be seen from one of the previous graphs that also clients with more that 120.000 usd incomes are more likely to leave the bank. In conclusion, the Platinum card is a type of card aimed for the highest social classes, which are probably trying to find ways to spend their high incomes. This makes this group wothed observing and stopping from trying another bank's card.<p><br/>
+ <p align="justify">Clients with platinum cards are most likely to leave. Compared to the representation of each of the cards in the bank, the Platinum card is the least used card in the bank, and the most used card is Blue. The reason for this trend can probably be connected with the height of clients' incomes, as it can be seen from one of the previous graphs that also clients with more that 120.000 usd incomes are more likely to leave the bank. In conclusion, the Platinum card is a type of card aimed for the highest social classes, which are probably trying to find ways to spend their high incomes. This makes this group worthed observing and stopping from using another bank's card.<p><br/>
  
  
  <p align="center">
