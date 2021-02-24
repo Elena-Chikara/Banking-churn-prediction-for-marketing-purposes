@@ -71,7 +71,7 @@
  <p align="justify">This feature, according to the box-plot, shows that the more contacts the client brings to the bank within 12 months, the greater the probability to leave.</p><br/>
  
  <p align="center">
-<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category.png"></a>
+<a><img width="58%" height="58%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/Total_Revolving_Bal_bi.PNG"></a>
 <img width="40%" height="40%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/card_category_bi.png"></a>
 </p>
 
