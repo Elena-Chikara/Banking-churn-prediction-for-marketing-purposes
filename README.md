@@ -161,6 +161,33 @@ All of the models were used with different techniques in the preprocessing phase
 <img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20precision%20and%20recall.PNG"></a>
 </p>
 
+<table style="width:100%">
+  <tr>
+    <th>XGBoost Model Class</th>
+    <th>Accuracy on training data</th>
+    <th>Accuracy on test data</th>
+    <th>Model timing</th>
+    <th>Precision</th>
+    <th>Recall</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1.000</td>
+    <td>0.984</td>
+    <td>0:00:00.510968</td>
+    <td>0.97</td>
+    <td>0.93</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1.000</td>
+    <td>0.984</td>
+    <td>0:00:00.510968</td>
+    <td>0.99</td>
+    <td>0.99</td>
+  </tr>
+</table>
+
 <p align="justify">
 In addition, it is also necessary to construct the ROC curve for as a visual representation of the comparison of all of the trained models.
 </p>
