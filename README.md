@@ -46,7 +46,7 @@
  <p>Utilizing Matplotlib, Seaborn and Pandas, we next analyzed the data.</p><br/>
  
  <p align="center"><img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/target_class.png" /></p>
- <p>The dataset of the project is imbalanced, the target variable has more observations in the class of Existing Customer than the class of Attrited Customer.</p><br/>
+ <p>The dataset of the project is imbalanced, the target variable has more observations in the class of Existing Customer (83,93%) than the class of Attrited Customer (16,07%).</p><br/>
  
  
  <p align="center">
