@@ -156,11 +156,6 @@ All of the models were used with different techniques in the preprocessing phase
 <p align="justify">The final model with the best prediction results in accuracy on test dataset, precision and recall was XGBoost with the following result:</p>
 </p>
 
-<p align="center">
-<a><img width="30%" height="30%" src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20accuracy.PNG"></a>
-<img src="https://github.com/Elena-Chikara/Banking-churn-prediction-for-marketing-purposes/blob/Elena-Chikara-README-file/plots_and_tables/XGBoost-%20precision%20and%20recall.PNG"></a>
-</p>
-
 <table style="width:100%">
   <tr>
     <th>XGBoost Model Class</th>
